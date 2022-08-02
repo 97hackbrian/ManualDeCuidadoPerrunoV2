@@ -1,0 +1,30 @@
+    @media (min-width: 1186px) {
+        .itemnavfinal {
+            padding-right: 300px !important;
+        }
+    }
+    
+    .itemnav {
+        padding-right: 100px !important;
+    }
+    
+    @media (max-width: 894px) {
+        .itemnav {
+            padding-right: 50px !important;
+        }
+    }
+    
+    @media (max-width: 992px) {
+        .mt-5,
+        .my-5 {
+            margin-top: 10rem !important;
+        }
+    }
+    /*  
+    @media (max-width: 990px) {
+        .mt-5,
+        .my-5 {
+            margin-top: 10rem !important;
+        }
+    }
+    */
